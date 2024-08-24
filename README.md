@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Turborepo starter
 
 This is an official starter Turborepo.
@@ -79,3 +80,7 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
 - [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
 - [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+=======
+# SmartWallet
+A wallet app that lets users on-ramp money via a fake bank account.
+>>>>>>> 5fac362959fb8e52b2fef8aa54330fb448975e34
